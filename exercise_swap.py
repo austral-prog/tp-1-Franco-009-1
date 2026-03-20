@@ -9,4 +9,11 @@ def swap():
     4. El valor de y después del intercambio
     """
     x = 10
+    print(x) 
     y = 20
+    print(y)
+    o = 20
+    print(o)
+    p = 10
+    print(p)
+swap()

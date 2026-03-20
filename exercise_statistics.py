@@ -12,3 +12,12 @@ def statistics():
     num2 = 8
     num3 = 23
     num4 = 12
+    promedio = (num1 + num2 + num3 + num4)/4
+    print(promedio)
+    maximo = num3
+    print(maximo)
+    minimo = num2
+    print(minimo)
+    rango = maximo - minimo
+    print(rango)
+statistics()
